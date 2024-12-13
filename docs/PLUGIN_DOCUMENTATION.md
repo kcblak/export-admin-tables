@@ -20,7 +20,7 @@ The **Export Admin Tables** plugin for WordPress provides the ability to export 
 ### Installation Steps
 
 1. **Download the Plugin**:
-   Download the plugin zip file from the [GitHub Repository](https://github.com/your-github-link).
+   Download the plugin zip file from the [GitHub Repository](https://github.com/kcblak/export-admin-tables).
 
 2. **Upload the Plugin**:
    - Navigate to the **Plugins > Add New** section in your WordPress dashboard.
@@ -73,4 +73,4 @@ The Export Admin Tables Plugin is released under the MIT License. See [LICENSE](
 
 ## Contact
 
-For support or contributions, please open an issue on the [GitHub Repository](https://github.com/your-github-link).
+For support or contributions, please open an issue on the [GitHub Repository](https://github.com/kcblak/export-admin-tables).
