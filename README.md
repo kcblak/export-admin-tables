@@ -14,7 +14,7 @@ The **Export Admin Tables** plugin for WordPress adds the functionality to expor
 ## Installation
 
 1. **Download the plugin**:
-   Download the plugin from [GitHub](https://github.com/your-github-link) or directly upload the `.zip` file to your WordPress site.
+   Download the plugin from [GitHub](https://github.com/kcblak/export-admin-tables) or directly upload the `.zip` file to your WordPress site.
 
 2. **Install the plugin**:
    - Go to your WordPress dashboard.
